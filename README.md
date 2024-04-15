@@ -1,2 +1,2 @@
-# Projects-HTML-CSS-JS
+# Projects-1-HTML-CSS-JS
 Web development projects
